@@ -1,0 +1,19 @@
+ul{
+    border:2px solid #ee6205;
+    display:flex;
+    margin:0;
+    padding:0;
+    list-style:none;
+    gap:1em;
+    flex-wrap: wrap;
+
+
+}
+li
+{
+    border:2px solid #af6798;
+    width:min-content;
+    flex-shrink: 1;
+    flex-grow: 1;
+
+}
