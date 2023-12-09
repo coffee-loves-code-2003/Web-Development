@@ -1,0 +1,14 @@
+This repository is developed and it is permittable to use under GNU GPL.
+If someone incorporates the GPL-licensed code into a 
+proprietary or closed-source project, you are still obligated to 
+release the source code of the parts covered by the GPL. This is known as the "copyleft" nature of the GPL, which is designed to ensure that derivative works remain open source.
+
+When you release your code under the GPL, it's essential to include the GPL license text with your code so that users are aware of the terms under which it is distributed. Additionally, you can include information in your code or documentation specifying that it is released under the GPL version you choose.
+
+Users who receive or distribute your GPL-licensed code are obligated to follow the terms of the license, which may include providing attribution, releasing source code, and distributing derivative works under the same license. 
+Keep in mind that legal matters can be complex, and if you have specific concerns or need legal advice, it's recommended to consult with a legal professional familiar with open-source licensing.
+
+Additional Features and development will be added further and let's make a healthy community and 
+support Free and Open Source.
+
+Thank You
